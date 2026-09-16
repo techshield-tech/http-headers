@@ -5,6 +5,7 @@ Look up ~90 common HTTP request/response headers, then paste raw response header
 **Live:** https://techshield-tech.github.io/http-headers/
 
 Part of [MMOALL Developer Tools](https://mmoall.com/tools).
+Also available at [mmoall.com/tools/http-headers](https://mmoall.com/tools/http-headers).
 
 ## Features
 
