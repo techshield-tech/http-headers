@@ -1,5 +1,5 @@
 import { useMemo, useState, type ReactNode } from 'react';
-import { Button, CopyButton, Panel, Select, TextArea, Toolbar } from '../shell/ui';
+import { Button, CopyButton, Panel, Select, TextArea, Toolbar } from '@mmoall/tool-kit';
 import {
   HEADER_CATEGORIES,
   HEADER_CATEGORY_LABELS,
